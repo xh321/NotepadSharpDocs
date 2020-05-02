@@ -22,7 +22,7 @@ description: 另一款能替换 Notepad 的产品
 
 更多内容，敬请期待！
 
-> 项目地址：\[[https://www.github.com/XHSofts/NotepadSharp](https://www.github.com/XHSofts/NotepadSharp)\]\([https://www.github.com/XHSofts/NotepadSharp](https://www.github.com/XHSofts/NotepadSharp)\)
+> 项目地址：[https://www.github.com/XHSofts/NotepadSharp](https://www.github.com/XHSofts/NotepadSharp)
 
 
 
