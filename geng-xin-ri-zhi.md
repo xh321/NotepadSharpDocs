@@ -6,6 +6,10 @@ description: Change log
 
 ## 1.0.1.0
 
+### \#d6b34c
+
+实现简易的Markdown预览，输出html到文档所在地并自动打开。
+
 ### \#53b8c8
 
 完善打印菜单和相应功能
