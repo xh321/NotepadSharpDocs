@@ -6,6 +6,10 @@ description: Change log
 
 ## 1.0.1.0
 
+### \#8ac772
+
+完善括号自动补全后的跳过逻辑。
+
 ### \#d6b34c
 
 实现简易的Markdown预览，输出html到文档所在地并自动打开。
