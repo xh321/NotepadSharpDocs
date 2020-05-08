@@ -6,6 +6,10 @@ description: Change log
 
 ## 1.0.1.0
 
+### \#12ff5b
+
+添加基础的编解码支持（包括Url、Base64和Unicode）。
+
 ### \#0fb802
 
 添加右键菜单，修正查找/替换对话框文本框聚焦逻辑。
