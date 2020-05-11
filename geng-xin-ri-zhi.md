@@ -6,6 +6,10 @@ description: Change log
 
 ## 1.0.1.0
 
+### \#14d89a
+
+优化代码自动缩进逻辑，变为更温和的自动缩进。
+
 ### \#12ff5b
 
 添加基础的编解码支持（包括Url、Base64和Unicode）。
